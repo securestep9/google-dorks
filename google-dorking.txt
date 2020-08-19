@@ -4456,3 +4456,4 @@ inurl:meshcms/admin/login.jsp & intitle:login
 intitle: Index of /awstats/data
 inurl:/admin/login.asp & intext:password
 inurl:backoffice intitle:login
+inurl:/web/guest/en/websys ext:cgi
